@@ -4,7 +4,7 @@
 yarn.lock
 yarn-error.log
 .env
-./src/database/database.sqlite
+/src/database/database.sqlite
 
 # testing
 ./coverage
