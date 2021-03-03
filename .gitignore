@@ -3,7 +3,6 @@
 yarn.lock
 yarn-error.log
 .env
-/uploads
 /src/database/database.sqlite
 
 # testing
